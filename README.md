@@ -1,4 +1,6 @@
 # hello-world
-tradition
-System.out.println("Coding is cool\nAnime is great<br>
-Gaming is best\nBut staying alive is better");
+tradition<br>
+Coding is cool<br>
+Anime is great<br>
+Gaming is best<br>
+But staying alive is better
